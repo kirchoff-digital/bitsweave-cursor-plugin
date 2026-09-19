@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="none" viewBox="0 0 192 192">
   <rect width="192" height="192" fill="#ffffff"/>
-  <g transform="translate(17.25 5) scale(0.175)">
+  <g transform="translate(43.5 12) scale(0.175) translate(-150 -40)">
     <defs>
-      <mask id="logo-rings" maskUnits="userSpaceOnUse" x="150" y="40" width="600" height="960">
+      <mask id="m" maskUnits="userSpaceOnUse" x="150" y="40" width="600" height="960">
         <rect x="150" y="40" width="600" height="960" fill="white"/>
         <circle cx="215.02" cy="97.31" r="65.278" fill="none" stroke="black" stroke-width="36.556"/>
         <circle cx="684.35" cy="274.88" r="65.278" fill="none" stroke="black" stroke-width="36.556"/>
@@ -15,7 +15,7 @@
         <circle cx="405.07" cy="860.08" r="32.639" fill="none" stroke="black" stroke-width="18.278"/>
       </mask>
     </defs>
-    <g mask="url(#logo-rings)">
+    <g mask="url(#m)">
       <line x1="215.02" y1="97.31" x2="684.35" y2="274.88" stroke="#b43328" stroke-width="25" stroke-linecap="round"/>
       <line x1="684.35" y1="274.88" x2="538.31" y2="461.80" stroke="#b43328" stroke-width="25" stroke-linecap="round"/>
       <line x1="405.07" y1="509.22" x2="538.31" y2="461.80" stroke="#b43328" stroke-width="25" stroke-linecap="round"/>
