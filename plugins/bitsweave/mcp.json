@@ -1,6 +1,7 @@
 {
   "mcpServers": {
     "bitsweave": {
+      "type": "http",
       "url": "https://bitsweave.com/api/mcp"
     }
   }

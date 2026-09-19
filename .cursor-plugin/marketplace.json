@@ -1,0 +1,18 @@
+{
+  "name": "bitsweave",
+  "owner": {
+    "name": "BitsWeave",
+    "email": "bitsweave@gmail.com"
+  },
+  "metadata": {
+    "description": "BitsWeave shared context and MCP tools for Cursor",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "bitsweave",
+      "source": "./plugins/bitsweave",
+      "description": "Read and write shared BitsWeave context through MCP."
+    }
+  ]
+}
