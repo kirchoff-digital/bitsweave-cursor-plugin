@@ -1,33 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="150 40 600 960" fill="none">
-  <defs>
-    <mask id="logo-rings" maskUnits="userSpaceOnUse" x="150" y="40" width="600" height="960">
-      <rect x="150" y="40" width="600" height="960" fill="white"/>
-    <circle cx="215.02" cy="97.31" r="65.278" fill="none" stroke="black" stroke-width="36.556"/>
-    <circle cx="684.35" cy="274.88" r="65.278" fill="none" stroke="black" stroke-width="36.556"/>
-    <circle cx="214.87" cy="934.95" r="65.278" fill="none" stroke="black" stroke-width="36.556"/>
-    <circle cx="684.28" cy="750.17" r="65.278" fill="none" stroke="black" stroke-width="36.556"/>
-    <circle cx="214.93" cy="576.89" r="65.278" fill="none" stroke="black" stroke-width="36.556"/>
-    <circle cx="405.07" cy="278" r="32.639" fill="none" stroke="black" stroke-width="18.278"/>
-    <circle cx="538.31" cy="461.8" r="32.639" fill="none" stroke="black" stroke-width="18.278"/>
-    <circle cx="405.07" cy="509.22" r="32.639" fill="none" stroke="black" stroke-width="18.278"/>
-    <circle cx="405.07" cy="860.08" r="32.639" fill="none" stroke="black" stroke-width="18.278"/>
-    </mask>
-  </defs>
-  <g mask="url(#logo-rings)">
-  <line x1="215.02" y1="97.31" x2="684.35" y2="274.88" stroke="#b43328" stroke-width="25" stroke-linecap="round"/>
-  <line x1="684.35" y1="274.88" x2="538.31" y2="461.80" stroke="#b43328" stroke-width="25" stroke-linecap="round"/>
-  <line x1="405.07" y1="509.22" x2="538.31" y2="461.80" stroke="#b43328" stroke-width="25" stroke-linecap="round"/>
-  <line x1="684.28" y1="750.17" x2="405.07" y2="860.08" stroke="#b43328" stroke-width="25" stroke-linecap="round"/>
-  <line x1="214.87" y1="934.95" x2="684.28" y2="750.17" stroke="#b43328" stroke-width="25" stroke-linecap="round"/>
-  <line x1="538.31" y1="461.80" x2="684.28" y2="750.17" stroke="#dc6b2f" stroke-width="50" stroke-linecap="round"/>
-  <line x1="538.31" y1="461.80" x2="405.07" y2="860.08" stroke="#dc6b2f" stroke-width="50" stroke-linecap="round"/>
-  <line x1="405.07" y1="278.00" x2="405.07" y2="509.22" stroke="#dc6b2f" stroke-width="50" stroke-linecap="round"/>
-  <line x1="405.07" y1="509.22" x2="405.07" y2="860.08" stroke="#e5884c" stroke-width="50" stroke-linecap="round"/>
-  <line x1="215.02" y1="97.31" x2="405.07" y2="278.00" stroke="#eea56a" stroke-width="50" stroke-linecap="round"/>
-  <line x1="214.93" y1="576.89" x2="405.07" y2="278.00" stroke="#eea56a" stroke-width="50" stroke-linecap="round"/>
-  <line x1="214.93" y1="576.89" x2="405.07" y2="509.22" stroke="#eea56a" stroke-width="50" stroke-linecap="round"/>
-  <line x1="214.87" y1="934.95" x2="405.07" y2="860.08" stroke="#eea56a" stroke-width="50" stroke-linecap="round"/>
-  <line x1="684.35" y1="274.88" x2="684.28" y2="750.17" stroke="#dc6b2f" stroke-width="100" stroke-linecap="round"/>
-  <line x1="215.02" y1="97.31" x2="214.87" y2="934.95" stroke="#eea56a" stroke-width="100" stroke-linecap="round"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" fill="#ffffff"/>
+  <svg x="128" y="51" width="256" height="410" viewBox="150 40 600 960" preserveAspectRatio="xMidYMid meet">
+    <defs>
+      <mask id="logo-rings" maskUnits="userSpaceOnUse" x="150" y="40" width="600" height="960">
+        <rect x="150" y="40" width="600" height="960" fill="white"/>
+        <circle cx="215.02" cy="97.31" r="65.278" fill="none" stroke="black" stroke-width="36.556"/>
+        <circle cx="684.35" cy="274.88" r="65.278" fill="none" stroke="black" stroke-width="36.556"/>
+        <circle cx="214.87" cy="934.95" r="65.278" fill="none" stroke="black" stroke-width="36.556"/>
+        <circle cx="684.28" cy="750.17" r="65.278" fill="none" stroke="black" stroke-width="36.556"/>
+        <circle cx="214.93" cy="576.89" r="65.278" fill="none" stroke="black" stroke-width="36.556"/>
+        <circle cx="405.07" cy="278" r="32.639" fill="none" stroke="black" stroke-width="18.278"/>
+        <circle cx="538.31" cy="461.8" r="32.639" fill="none" stroke="black" stroke-width="18.278"/>
+        <circle cx="405.07" cy="509.22" r="32.639" fill="none" stroke="black" stroke-width="18.278"/>
+        <circle cx="405.07" cy="860.08" r="32.639" fill="none" stroke="black" stroke-width="18.278"/>
+      </mask>
+    </defs>
+    <g mask="url(#logo-rings)">
+      <line x1="215.02" y1="97.31" x2="684.35" y2="274.88" stroke="#b43328" stroke-width="25" stroke-linecap="round"/>
+      <line x1="684.35" y1="274.88" x2="538.31" y2="461.80" stroke="#b43328" stroke-width="25" stroke-linecap="round"/>
+      <line x1="405.07" y1="509.22" x2="538.31" y2="461.80" stroke="#b43328" stroke-width="25" stroke-linecap="round"/>
+      <line x1="684.28" y1="750.17" x2="405.07" y2="860.08" stroke="#b43328" stroke-width="25" stroke-linecap="round"/>
+      <line x1="214.87" y1="934.95" x2="684.28" y2="750.17" stroke="#b43328" stroke-width="25" stroke-linecap="round"/>
+      <line x1="538.31" y1="461.80" x2="684.28" y2="750.17" stroke="#dc6b2f" stroke-width="50" stroke-linecap="round"/>
+      <line x1="538.31" y1="461.80" x2="405.07" y2="860.08" stroke="#dc6b2f" stroke-width="50" stroke-linecap="round"/>
+      <line x1="405.07" y1="278.00" x2="405.07" y2="509.22" stroke="#dc6b2f" stroke-width="50" stroke-linecap="round"/>
+      <line x1="405.07" y1="509.22" x2="405.07" y2="860.08" stroke="#e5884c" stroke-width="50" stroke-linecap="round"/>
+      <line x1="215.02" y1="97.31" x2="405.07" y2="278.00" stroke="#eea56a" stroke-width="50" stroke-linecap="round"/>
+      <line x1="214.93" y1="576.89" x2="405.07" y2="278.00" stroke="#eea56a" stroke-width="50" stroke-linecap="round"/>
+      <line x1="214.93" y1="576.89" x2="405.07" y2="509.22" stroke="#eea56a" stroke-width="50" stroke-linecap="round"/>
+      <line x1="214.87" y1="934.95" x2="405.07" y2="860.08" stroke="#eea56a" stroke-width="50" stroke-linecap="round"/>
+      <line x1="684.35" y1="274.88" x2="684.28" y2="750.17" stroke="#dc6b2f" stroke-width="100" stroke-linecap="round"/>
+      <line x1="215.02" y1="97.31" x2="214.87" y2="934.95" stroke="#eea56a" stroke-width="100" stroke-linecap="round"/>
+    </g>
+  </svg>
 </svg>
