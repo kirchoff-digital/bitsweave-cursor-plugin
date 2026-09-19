@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
-  <rect width="512" height="512" fill="#ffffff"/>
-  <svg x="128" y="51" width="256" height="410" viewBox="150 40 600 960" preserveAspectRatio="xMidYMid meet">
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="none" viewBox="0 0 192 192">
+  <rect width="192" height="192" fill="#ffffff"/>
+  <g transform="translate(17.25 5) scale(0.175)">
     <defs>
       <mask id="logo-rings" maskUnits="userSpaceOnUse" x="150" y="40" width="600" height="960">
         <rect x="150" y="40" width="600" height="960" fill="white"/>
@@ -32,5 +32,5 @@
       <line x1="684.35" y1="274.88" x2="684.28" y2="750.17" stroke="#dc6b2f" stroke-width="100" stroke-linecap="round"/>
       <line x1="215.02" y1="97.31" x2="214.87" y2="934.95" stroke="#eea56a" stroke-width="100" stroke-linecap="round"/>
     </g>
-  </svg>
+  </g>
 </svg>
